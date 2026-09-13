@@ -1,4 +1,4 @@
-# spark Messenger ⚡
+# Spark Messenger 
 
 Бесплатный мессенджер с открытым исходным кодом под Android.
 
