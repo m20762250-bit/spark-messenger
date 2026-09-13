@@ -7,4 +7,4 @@
 * **Стек:** Kotlin, Jetpack Compose, Firebase Auth & Firestore.
 
 📩 **Поддержка:** `SparkMessenger.Support@gmail.com`
-☕ **Донаты:** Boosty / Buy Me a Coffee
+**Донаты:** Boosty / Buy Me a Coffee
